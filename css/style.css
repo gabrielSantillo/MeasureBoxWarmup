@@ -1,0 +1,39 @@
+#first_h2 {
+    height: 10pt;
+    width: 20pc;
+    font-size: 3em;
+}
+
+#second_h2 {
+    font-size: 100px;
+}
+
+#first_article {
+    margin-bottom: 10rem;
+}
+
+#second_article {
+    width: 50vw;
+    height: 50vh;
+    margin-bottom: 10em;
+}
+
+#second_img {
+    width: 500px;
+    height: 50%;
+}
+
+.article {
+    margin-left: 600px;
+}
+
+#third_article {
+    margin-bottom: 20px;
+    margin-top: 0mm;
+}
+
+#fourth_article {
+    margin-top: 200pt;
+    margin-bottom: 20pc;
+}
+
